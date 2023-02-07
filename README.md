@@ -21,6 +21,8 @@ This application is developed to allow users to create notes or snippets with an
 
 ![](assets/Screen%20Shot%202023-02-07%20at%208.53.43%20AM.png)
 
+Deploy application: https://francisco-pwa-text-editor.herokuapp.com/
+
 ## Questions
 
 For questions or issues, please contact:
